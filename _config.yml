@@ -1,10 +1,10 @@
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
+title: Gaige's Hip-hop Dance Blog
+name: Gaige Y.
+email: GooseCloudySky@gmail.com
 description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 
-baseurl: "/blog"
-url: ""
+baseurl: "GaigeY.github.io"
+url: "GaigeY.github.io"
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
@@ -164,7 +164,7 @@ syntax_highlighting: true # include the css for syntax highlighting
 
 # Build settings
 markdown: kramdown
-# theme: minima
+theme: jekyll-material-theme
 permalink: pretty
 plugins:
   - jekyll-feed
