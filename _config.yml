@@ -8,7 +8,7 @@ url: "GaigeY.github.io"
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
-parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_one: https://i.pinimg.com/originals/24/e0/64/24e0646dc3aee430bbf9eef80063469a.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "First Project"
