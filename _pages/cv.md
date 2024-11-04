@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV / 简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education / 教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, School of Data Science, University of Science and Technology of China (2019-present)
+  * Supervisor: Prof. Xiaohui Cai
+  * Research Focus: Wearable Computing, Human Motion Reconstruction, Digital Health
+* B.S. in Applied Physics, University of Science and Technology of China (2015-2019)
 
-Work experience
+Research Experience / 研究经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-Present: Human Motion Reconstruction and Health Assessment
+  * Research on human-computer interaction and health assessment based on motion reconstruction
+  * Project details pending publication
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2023: Smart Shoes for Heart Failure Patients
+  * Developed assessment methods for exercise capacity in heart failure patients
+  * Led multiple clinical evaluation projects across 3+ departments
+  * Successfully obtained IRB approval for clinical studies
+  * Secured one authorized patent
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019-2021: Smart Textile and Footwear Development
+  * Designed and maintained smart textile sensors
+  * Participated in embedded system development and debugging
+  * Focused on smart footwear design and implementation
 
-Publications
+Technical Skills / 技术能力
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Programming Languages
+  * Python
+* Hardware Development
+  * Smart textile sensor fabrication
+  * Embedded system development
+* Clinical Research
+  * IRB protocol preparation
+  * Clinical evaluation design
+  * Health assessment implementation
+
+Teaching Experience / 教学经验
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Research Mentorship
+  * Supervised 3 undergraduate thesis projects
+  * Guided research work for 3 master's students
+
+Patents & Achievements / 专利与成果
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* One authorized patent in smart healthcare technology
+* Successfully led multiple clinical evaluation projects
+* Contributed to IRB approval process
+
+Professional Service / 专业服务
 ======
-* Currently signed in to 43 different slack teams
+* Clinical collaboration experience with multiple hospital departments
+* Research project coordination and management
